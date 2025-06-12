@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Camilla",
+    valentineName: "Camilla meu amor",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "EU SOU O CABA MaIS SORTUDO DO MUNDO VAPOOO 🎉💝💖💝💓",
-        message: "Agora venha buscar sem presente!!!! Abraços e beijinhos infinitos para sempre",
+        title: "EU SOU O CABA MAIS SORTUDO DO MUNDO VAPOOO 🎉💝💖💝💓",
+        message: "Agora venha buscar seu presente!!!! Abraços e beijinhos infinitos para sempre",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
